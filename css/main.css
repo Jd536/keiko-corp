@@ -1,5 +1,5 @@
-/*		Fonts	*/
-@font-face {
+		Fonts	
+/* @font-face {
     font-family: 'open_regular';
     src: url('../fonts/opensans-regular.eot');
     src: url('../fonts/opensans-regular.eot?#iefix') format('embedded-opentype'),
@@ -34,7 +34,7 @@
     font-weight: normal;
     font-style: normal;
 
-}
+} */
 
 
 
@@ -153,7 +153,7 @@ header nav li:first-child{
 
 header nav li a{
 	color: #fff;
-	font-family: "open_regular", Helvetica, Arial, sans-serif;
+	font-family:  'Open Sans', Helvetica, Arial, sans-serif;
 	font-size: 16px;
 
 	transition: all .2s linear;
@@ -217,7 +217,7 @@ header .social li:first-child{
 
 .hero .caption h1{
 	color: #525252;
-	font-family: "open_bold", Helvetica, Arial, sans-serif;
+	font-family:  'Open Sans', Helvetica, Arial, sans-serif;
 	font-size: 34px;
 	font-weight: bold;
 	word-break: break-word;
@@ -225,7 +225,7 @@ header .social li:first-child{
 
 .hero .caption p{
 	color: #6d6c6c;
-	font-family: "open_regular", Helvetica, Arial, sans-serif;
+	font-family:  'Open Sans', Helvetica, Arial, sans-serif;
 	font-size: 16px;
 	line-height: 30px;
 	margin: 15px 0 35px 0;
@@ -246,7 +246,7 @@ a.app_store_btn{
 	margin: 20px 20px 10px 0;
 
 	color: #525252;
-	font-family: "open_semibold", Helvetica, Arial, sans-serif;
+	font-family:  'Open Sans', Helvetica, Arial, sans-serif;
 	font-size: 16px;
 }
 
